@@ -25,7 +25,7 @@ const Nav = () => {
   return (
     <Navbar bg="light" expand="lg">
       <Container>
-        <Navbar.Brand>Home</Navbar.Brand>
+        <Navbar.Brand>RandomPostCode</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Link to="/logout" className="nav-link">
           Logout
