@@ -9,7 +9,7 @@ const Nav = () => {
       <div>
         <Navbar bg="light" expand="lg">
           <Container>
-            <Navbar.Brand>App</Navbar.Brand>
+            <Navbar.Brand>RandomPostCode</Navbar.Brand>
             <Link to="/login" className="nav-link">
               Login
             </Link>
