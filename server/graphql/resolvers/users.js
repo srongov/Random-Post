@@ -40,7 +40,7 @@ module.exports = {
 
     register: async (
       _,
-      { registerInput: { username, email, password, confirmPassword } }
+      { registerInput: { username, email, password,  } }
     ) => {
       const { valid, errors } = validateRegisterInput(
         username,
