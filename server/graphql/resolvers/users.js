@@ -40,7 +40,7 @@ module.exports = {
 
     register: async (
       _,
-      { registerInput: { username, email, password,  } }
+      { registerInput: { username, email, password, confirmPassword } }
     ) => {
       const { valid, errors } = validateRegisterInput(
         username,
@@ -50,7 +50,7 @@ module.exports = {
       )
 
       if (!valid) {
-        throw new UserInputError('Errors', { errorrs })
+        throw new UserInputError('Errors', { errors })
       }
 
       const user = await User.findOne({ username })
