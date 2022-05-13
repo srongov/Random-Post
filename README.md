@@ -9,12 +9,12 @@ It to let the post code that they can not figured out and someone will help them
 
 # Technologies
 
-GraphQL
-MONGODB
-NODEJS
-EXPRESSJS
-REACT
-BOOTSTRAP
+- GraphQL
+- MONGODB
+- NODEJS
+- EXPRESSJS
+- REACT
+- BOOTSTRAP
 
 # To run this project
 
