@@ -20,8 +20,8 @@ It to let the post code that they can not figured out and someone will help them
 
 Clone Repo
 
-npm i for both server and client.
-and npm start.
+- npm i for both server and client.
+- npm start.
 
 # Deploy
 
