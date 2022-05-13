@@ -23,6 +23,11 @@ Clone Repo
 npm i for both server and client.
 and npm start.
 
+# Deploy
+
+https://codepost-app.herokuapp.com/
+
+
 
 ![Home page](https://user-images.githubusercontent.com/83107437/168397735-629776fa-c1c3-42a4-84b7-abbce47d731f.PNG)
 ![Register](https://user-images.githubusercontent.com/83107437/168397740-8e803c59-3bf3-4e14-98df-2dc4caba676b.PNG)
